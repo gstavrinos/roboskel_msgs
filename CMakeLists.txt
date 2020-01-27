@@ -12,6 +12,8 @@ find_package(message_generation)
  add_message_files(
    FILES
    PointCloud2_Segments.msg
+   ClusteredLaserScans.msg
+   LaserScanCluster.msg
    LaserScans.msg
  )
 

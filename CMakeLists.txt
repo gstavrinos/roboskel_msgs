@@ -15,6 +15,7 @@ find_package(message_generation)
    ClusteredLaserScans.msg
    LaserScanCluster.msg
    LaserScans.msg
+   Mission.msg
  )
 
  generate_messages(

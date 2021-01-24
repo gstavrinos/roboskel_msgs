@@ -1,0 +1,5 @@
+string data
+bool trigger
+---
+string message
+bool success

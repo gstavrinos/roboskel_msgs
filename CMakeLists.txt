@@ -16,6 +16,7 @@ add_message_files(
     LaserScanCluster.msg
     LaserScans.msg
     Mission.msg
+    Image_Segments.msg
 )
 
 add_service_files(
